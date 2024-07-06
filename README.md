@@ -68,7 +68,7 @@ Here we can see how a net can behave badly at weird situations, like 2 epochs.
 ![big_5e_20wm](https://github.com/vtortega/Denoising-autoencoder/assets/112141870/b19fa74b-572d-4bfc-b68e-a1db6c3fc195)
 
 ### 10 Epochs, 30 Watermarks
-This one surprised me, is was really able to remove the watermarks very well, its not easy even for a human.
+This one surprised me, is was really able to remove the watermarks very well, it could be confusing even for a human at a first look.
 
 ![big_10e_30wm](https://github.com/vtortega/Denoising-autoencoder/assets/112141870/9f736964-dd63-4196-bd66-4f7b87f527e5)
 
