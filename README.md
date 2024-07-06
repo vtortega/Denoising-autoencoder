@@ -34,6 +34,8 @@ The bottom images after going through the model.
 ![small_50e_5wm](https://github.com/vtortega/Denoising-autoencoder/assets/112141870/1d1e23b8-8988-47c0-b8a5-e800c9ca352f)
 
 ### 100 Epochs, 10 Watermarks
+I didn't understand what happened here. I tried to run at higher epochs and got this. Will come back to investigate
+further some time.
 
 ![small_100e_10wm](https://github.com/vtortega/Denoising-autoencoder/assets/112141870/6698eacc-e537-4fe1-85ff-58597b6b72bd)
 
@@ -74,7 +76,5 @@ This one surprised me, is was really able to remove the watermarks very well, it
 
 Big and smart models are indeed better, way better, who would have thought? 
 But at what price? That's an answer only your case will you, but a few learnings that we can take from this is that models are made to be run for a higher number of epochs, the need to make a giant model and run it a few times seems to make little sense in relation to it's costs.
-
-
 
 The design of the smaller model could be one of the not so good ones . The making of a better small model and an intermediate one will get a visit soon so to arrive at a better undestanding of which one to choose when the time comes. But for now, that's what I got.
