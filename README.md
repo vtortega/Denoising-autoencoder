@@ -41,7 +41,7 @@ further some time.
 
 ## Big Model
 This model took way more time to run, in my system, about 5 minutes per epoch. And it takes way more memory too
-Of course it was overkill to this dataset, but we can learn a lot with a exageration.
+Of course it was overkill for this dataset, but we can learn a lot with an exageration.
 
 The big model was 3 orders of magnitutde bigger then the small model.
 
